@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/manasvikansal13" target="blank"><img src="https://img.shields.io/twitter/follow/manasvikansal13?logo=twitter&style=for-the-badge" alt="manasvikansal13" /></a> </p>
 
-- I’m currently working on [a MERN project](https://github.com/ManasviKansal13/MERN-doctor_appointment)
+- I’m currently working on [a Data Science project](https://github.com/ManasviKansal13/Healing-Behind-the-Bars)
 
 - 🌱 I’m currently learning **Front end Designing**
 
